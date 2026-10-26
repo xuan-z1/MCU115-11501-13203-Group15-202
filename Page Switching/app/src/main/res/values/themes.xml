@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PageSwitching" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Light Theme Colors -->
+        <item name="colorPrimary">@color/indigo_600</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/indigo_50</item>
+        <item name="colorOnPrimaryContainer">@color/indigo_900</item>
+
+        <item name="android:colorBackground">@color/slate_50</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/slate_900</item>
+        <item name="colorSurfaceVariant">@color/slate_100</item>
+        <item name="colorOnSurfaceVariant">@color/slate_600</item>
+        <item name="colorOutline">@color/slate_300</item>
+        <item name="colorOutlineVariant">@color/slate_200</item>
+    </style>
+
+    <style name="Theme.PageSwitching" parent="Base.Theme.PageSwitching" />
+</resources>

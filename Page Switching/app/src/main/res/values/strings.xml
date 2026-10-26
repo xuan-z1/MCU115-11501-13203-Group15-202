@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Page Switching</string>
+
+    <!-- Assignment Strings -->
+    <string name="title_first_page">第一頁</string>
+    <string name="hint_send_to_sec">請輸入要傳遞到第二頁的文字</string>
+    <string name="btn_switch_page">切換頁面</string>
+    <string name="label_received_from_sec">接第二頁傳回的回復文字：</string>
+
+    <string name="title_sec_page">第二頁</string>
+    <string name="label_received_from_main">接第一頁傳來的文字：</string>
+    <string name="hint_reply_to_main">請輸入要回復第一頁的文字</string>
+    <string name="btn_return_page">回復並返回</string>
+
+    <!-- UI/UX Enhancement Strings -->
+    <string name="placeholder_no_reply">（尚無回傳內容）</string>
+    <string name="placeholder_no_received">（未收到傳入文字）</string>
+
+    <!-- Template Strings -->
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum</string>
+</resources>

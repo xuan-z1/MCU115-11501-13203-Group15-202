@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Night mode. -->
+    <style name="Base.Theme.PageSwitching" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Dark Theme Colors -->
+        <item name="colorPrimary">@color/indigo_400</item>
+        <item name="colorOnPrimary">@color/slate_900</item>
+        <item name="colorPrimaryContainer">@color/indigo_900</item>
+        <item name="colorOnPrimaryContainer">@color/indigo_100</item>
+
+        <item name="android:colorBackground">@color/slate_900</item>
+        <item name="colorSurface">@color/slate_800</item>
+        <item name="colorOnSurface">@color/slate_50</item>
+        <item name="colorSurfaceVariant">@color/slate_800</item>
+        <item name="colorOnSurfaceVariant">@color/slate_300</item>
+        <item name="colorOutline">@color/slate_600</item>
+        <item name="colorOutlineVariant">@color/slate_800</item>
+    </style>
+</resources>
