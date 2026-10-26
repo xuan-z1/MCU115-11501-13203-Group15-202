@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#6750A4</color>
+    <color name="purple_on_primary">#FFFFFF</color>
+    <color name="purple_container">#EADDFF</color>
+    <color name="purple_on_container">#21005D</color>
+
+    <color name="app_background">#F6F7F9</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_secondary">#49454F</color>
+    <color name="text_hint">#79747E</color>
+
+    <color name="delete_red_light">#FFDAD6</color>
+    <color name="delete_red_icon">#BA1A1A</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

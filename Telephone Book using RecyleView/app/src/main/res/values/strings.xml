@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">電話簿 (Telephone Book)</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">聯絡人列表</string>
+    <string name="second_fragment_label">新增聯絡人</string>
+
+    <string name="search_hint">搜尋姓名、電話或 Email</string>
+    <string name="search_icon">搜尋圖示</string>
+    <string name="clear_search">清除搜尋</string>
+    <string name="add_contact">新增聯絡人</string>
+    <string name="confirm_add">確認新增</string>
+
+    <string name="add_contact_title">建立新聯絡人</string>
+    <string name="add_contact_subtitle">請輸入聯絡人的姓名、電話號碼與 Email 信箱</string>
+
+    <string name="label_name">姓名:</string>
+    <string name="label_phone">電話:</string>
+    <string name="label_email">Email:</string>
+
+    <string name="hint_name">請輸入姓名</string>
+    <string name="hint_phone">請輸入電話</string>
+    <string name="hint_email">請輸入 Email</string>
+
+    <string name="toast_empty_fields">請輸入完整的姓名、電話與 Email</string>
+    <string name="toast_contact_added">已成功新增聯絡人</string>
+    <string name="toast_contact_deleted">已刪除 %1$s</string>
+
+    <string name="delete_contact">刪除聯絡人</string>
+    <string name="delete_dialog_title">刪除聯絡人</string>
+    <string name="delete_dialog_msg">確定要刪除「%1$s」嗎？此操作無法復原。</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+
+    <string name="empty_contacts">查無相關聯絡人</string>
+    <string name="contact_count_total">共 %1$d 位聯絡人</string>
+    <string name="contact_count_filtered">搜尋到 %1$d 位聯絡人</string>
+
+    <string name="contact_detail_title">聯絡人資訊</string>
+    <string name="action_call">撥打電話</string>
+    <string name="action_email">發送 Email</string>
+    <string name="phone_icon">電話圖示</string>
+</resources>

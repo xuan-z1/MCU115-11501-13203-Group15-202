@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TelephoneBookUsingRecyleView" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorOnPrimary">@color/purple_on_primary</item>
+        <item name="colorPrimaryContainer">@color/purple_container</item>
+        <item name="colorOnPrimaryContainer">@color/purple_on_container</item>
+        <item name="android:windowBackground">@color/app_background</item>
+    </style>
+
+    <style name="Theme.TelephoneBookUsingRecyleView" parent="Base.Theme.TelephoneBookUsingRecyleView" />
+</resources>
