@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Indigo palette -->
+    <color name="indigo_50">#EEF2FF</color>
+    <color name="indigo_100">#E0E7FF</color>
+    <color name="indigo_200">#C7D2FE</color>
+    <color name="indigo_400">#818CF8</color>
+    <color name="indigo_500">#6366F1</color>
+    <color name="indigo_600">#4F46E5</color>
+    <color name="indigo_700">#4338CA</color>
+    <color name="indigo_900">#312E81</color>
+
+    <!-- Slate palette -->
+    <color name="slate_50">#F8FAFC</color>
+    <color name="slate_100">#F1F5F9</color>
+    <color name="slate_200">#E2E8F0</color>
+    <color name="slate_300">#CBD5E1</color>
+    <color name="slate_600">#475569</color>
+    <color name="slate_700">#334155</color>
+    <color name="slate_800">#1E293B</color>
+    <color name="slate_900">#0F172A</color>
+
+    <!-- Circular ProgressBar Ring Colors -->
+    <color name="progress_bg_track">#E2E8F0</color>
+    <color name="progress_cyan">#06B6D4</color>
+    <color name="progress_purple">#8B5CF6</color>
+    <color name="progress_emerald">#10B981</color>
+    <color name="progress_rose">#F43F5E</color>
+</resources>

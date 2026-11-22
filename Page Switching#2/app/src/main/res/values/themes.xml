@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/indigo_600</item>
+        <item name="colorPrimaryContainer">@color/indigo_50</item>
+        <item name="colorOnPrimaryContainer">@color/indigo_900</item>
+        <item name="android:colorBackground">@color/slate_50</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/slate_100</item>
+    </style>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+</resources>

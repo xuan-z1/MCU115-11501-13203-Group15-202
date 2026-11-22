@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThreadHandler &amp; Page Switching</string>
+
+    <!-- Navigation / Tab Labels -->
+    <string name="tab_start">Start</string>
+    <string name="tab_progress">Progress</string>
+    <string name="tab_result">Result</string>
+
+    <!-- HW6 Buttons and Titles -->
+    <string name="btn_start">Start Work</string>
+    <string name="btn_cancel">Cancel Work</string>
+    <string name="title_thread_control">Thread Background Worker</string>
+    <string name="title_progress_monitor">Worker Progress Monitor</string>
+    <string name="title_result_summary">Worker Status Result</string>
+
+    <!-- HW6 Status Texts -->
+    <string name="status_idle">Idle</string>
+    <string name="status_preparing">Preparing…</string>
+    <string name="status_working">Working… %d%%</string>
+    <string name="status_completed">背景工作結束！</string>
+    <string name="status_canceled">Canceled</string>
+
+    <!-- HW5 Page Switching Strings -->
+    <string name="title_page_switching">Activity Page Switching</string>
+    <string name="title_first_page">第一頁</string>
+    <string name="hint_send_to_sec">請輸入要傳遞到第二頁的文字</string>
+    <string name="btn_switch_page">切換第二頁</string>
+    <string name="label_received_from_sec">接第二頁傳回的回覆文字：</string>
+    <string name="title_sec_page">第二頁</string>
+    <string name="label_received_from_main">接第一頁傳來的文字：</string>
+    <string name="hint_reply_to_main">請輸入要回覆第一頁的文字</string>
+    <string name="btn_return_page">回覆並返回</string>
+    <string name="placeholder_no_reply">（尚無回傳內容）</string>
+    <string name="placeholder_no_received">（未收到傳入文字）</string>
+</resources>
